@@ -1,6 +1,6 @@
 # Chainlit LLM Application
 
-Official url: https://github.com/Chainlit/chainlit
+Official URL: https://github.com/Chainlit/chainlit
 
 ## Overview
 Chainlit is a powerful tool designed to expedite the development of Python Language Learning Model (LLM) applications. This open-source project stands out for its unique ability to seamlessly integrate AI models into applications, providing a streamlined approach for LLM-based applications.
