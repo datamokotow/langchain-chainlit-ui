@@ -1,4 +1,4 @@
-# Chainlit LLM Application
+# Chainlit LLM App
 
 Official URL: https://github.com/Chainlit/chainlit
 
